@@ -20,3 +20,7 @@ GIT
 - Test2 added
 - Test2 추가
 
+
+- Error
+- 충돌
+
