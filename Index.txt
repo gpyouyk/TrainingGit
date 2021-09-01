@@ -16,4 +16,7 @@ GIT
 - Branch Test 2
 - MergeTest
 
+
 - Test2 added
+- Test2 추가
+
