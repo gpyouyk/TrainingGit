@@ -1,4 +1,5 @@
 GIT
+- 1st edit
 - Branch
 - 충돌
 - 충돌해결
