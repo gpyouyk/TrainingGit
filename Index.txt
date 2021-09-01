@@ -10,3 +10,4 @@ GIT
 
 - Branch Test
 - Branch Test 2
+- MergeTest
