@@ -4,6 +4,7 @@ GIT
 - 3rd edit
 - 4th edit
 - revert test
+- revert exe
 - Branch
 - 충돌
 - 충돌해결
