@@ -3,6 +3,7 @@ GIT
 - 2nd edit
 - 3rd edit
 - 4th edit
+- revert test
 - Branch
 - 충돌
 - 충돌해결
