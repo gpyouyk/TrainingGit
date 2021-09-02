@@ -33,4 +33,5 @@ GIT
 - Push 3
 
 - Clone Push1
-- conflict org
+- conflict org conflict clone
+
