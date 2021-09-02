@@ -34,3 +34,4 @@ GIT
 
 - Clone Push1
 - conflict clone
+- conflict add
