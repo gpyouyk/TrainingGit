@@ -31,3 +31,5 @@ GIT
 - Push
 - Push 2
 - Push 3
+
+- Clone Push1
